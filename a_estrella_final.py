@@ -77,10 +77,17 @@ def guardar_resultados(mejor_ruta, rutas, filepath):
 diccionario_nombres_archivos_entrada = {
     1: "tics_rutas.csv",
     2:" secretaria.csv",
+    3: "Ingenieria Civil.csv",
+    4:"CienciasQuimica.csv",
+    5:"Computacion.csv",
+    6:"Sistemasinformacion.csv",
+    7:"labInformatica.csv",
+    8:"labMateriales.csv",
+    9:"labHidraulica.csv",
 }
 
 # Ruta del archivo CSV y del archivo JSON de salida
-numero_archivo = 2
+numero_archivo = 9
 
 nombre_archivo = diccionario_nombres_archivos_entrada[numero_archivo]
 
