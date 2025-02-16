@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "titulo": "Secretaria",
+      "url_imagen": "https://i.postimg.cc/sX8LhVV5/sec-ing.jpg",
+      "descripcion": "Descripción de Secretaria",
+      "longitud": -78.5032968,
+      "latitud": -0.1978995
+    },
+    {
+      "id": 2,
+      "titulo": "Dirección DTIC",
+      "url_imagen": "https://i.postimg.cc/C534F5w6/tics.jpg",
+      "descripcion": "Descripción de Dirección DTIC",
+      "longitud": -78.5031352,
+      "latitud": -0.1989014
+    }
+  ]
